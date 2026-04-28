@@ -1,0 +1,16 @@
+{
+  "short_name": "AJ Talk",
+  "name": "AJ Talk Private Messenger",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00a884",
+  "background_color": "#0b141a"
+}
